@@ -1,7 +1,7 @@
-## What is this about⁉️❓
+## What is this about ⁉️❓
 **Semantic segmentation of water bodies from satellite imagery**
 
-### What is the model architecture
+### What is the model architecture ❔
 Involves building the U-Net architecture (encoder-decoder) from the scratch
 
 ### Coding Blocks 👩‍💻👩‍💻
