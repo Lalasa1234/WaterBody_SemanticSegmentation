@@ -1,5 +1,6 @@
 ## What is this about ⁉️❓
 **Semantic segmentation of water bodies from satellite imagery**
+This has a practical application for the space industry who research on planetary water sources
 
 ### What is the model architecture❔
 Involves building the U-Net architecture (encoder-decoder) from the scratch
