@@ -7,6 +7,6 @@ This has a practical application in the space industry which researches extensiv
 Involves building the U-Net architecture (encoder-decoder) from the scratch
 
 ### Coding Blocks 👩‍💻👩‍💻
-*EDA and testing transformations*
+*EDA and testing geomtric and color-space transformations*
 
 *Defining the PyTorch Dataset and Dataloader functions along with specific transformations for image data and masked data*
