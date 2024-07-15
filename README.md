@@ -9,7 +9,8 @@ Involves building the U-Net model architecture from the scratch. U-Net assigns c
 
 Reference: https://arxiv.org/abs/1505.04597
 
-### Coding Blocks 👩‍💻👩‍💻 **Specials comments for common mistake handling and justification**
+### Coding Blocks 👩‍💻👩‍💻 
+**Specials comments for common mistake handling and justification**
 
 *EDA and testing geometric, color-space, and miscellaneous transformations*
 
