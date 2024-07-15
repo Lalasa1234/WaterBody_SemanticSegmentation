@@ -21,4 +21,4 @@ Reference: https://arxiv.org/abs/1505.04597
 
 *Model Predictions*
 
-*Specials comments for common mistake handling and justification throughout*
+**Note:** Specials comments for common mistake handling and justification throughout the code
