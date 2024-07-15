@@ -10,7 +10,7 @@ Involves building the U-Net model architecture from the scratch. U-Net assigns c
 Reference: https://arxiv.org/abs/1505.04597
 
 ### Coding Blocks 👩‍💻👩‍💻
-*EDA and testing geometric and color-space transformations*
+*EDA and testing geometric, color-space, and miscellaneous transformations *
 
 *Defining the PyTorch Dataset and Dataloader functions along with specific transformations for image data and masked data*
 
