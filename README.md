@@ -10,7 +10,6 @@ Involves building the U-Net model architecture from the scratch. U-Net assigns c
 Reference: https://arxiv.org/abs/1505.04597
 
 ### Coding Blocks 👩‍💻👩‍💻 
-**Specials comments for common mistake handling and justification**
 
 *EDA and testing geometric, color-space, and miscellaneous transformations*
 
@@ -21,3 +20,5 @@ Reference: https://arxiv.org/abs/1505.04597
 *Training the Model for 50 epochs along with tqdm tracking of loss*
 
 *Model Predictions*
+
+*Specials comments for common mistake handling and justification throughout*
