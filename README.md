@@ -1,4 +1,4 @@
-## What is this about ⁉️❓
+## What is this about ⁉️
 **Semantic segmentation of water bodies from satellite imagery**
 
 This has a practical application in the space industry which researches extensively on planetary water bodies.
