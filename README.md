@@ -4,7 +4,7 @@
 This has a practical application in the space industry which researches extensively on planetary water bodies.
 
 ### What is the model architecture❔
-Involves building the U-Net architecture (encoder-decoder) from the scratch. U-Net assigns class to every pixel (water as the foreground versus non-water as the background)
+Involves building the U-Net model architecture from the scratch. U-Net assigns class to every pixel (water as the foreground versus non-water as the background)
 ![image](https://github.com/user-attachments/assets/e72fcfd0-6ac2-4e82-bde7-5b8b89b496b5)
 
 Reference: https://arxiv.org/abs/1505.04597
