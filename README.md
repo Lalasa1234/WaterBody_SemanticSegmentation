@@ -5,7 +5,8 @@ This has a practical application in the space industry which researches extensiv
 
 ### What is the model architecture❔
 Involves building the U-Net model architecture from the scratch. U-Net assigns class to every pixel (water as the foreground versus non-water as the background)
-![image](https://github.com/user-attachments/assets/e72fcfd0-6ac2-4e82-bde7-5b8b89b496b5)
+![image](https://github.com/user-attachments/assets/c9336bb4-71f8-4df3-ae85-b6c5698b6d16)
+
 
 Reference: https://arxiv.org/abs/1505.04597
 
