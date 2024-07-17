@@ -28,7 +28,9 @@ Reference: https://arxiv.org/abs/1505.04597
 
 With just 2 epochs, the model is able to able to segment with at least 50% of accuracy. With more computational resources and training, the model is expected to predict better.
 
+
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/1106bf3d-ac6f-449b-aebf-2d51480fcc10">
+
 
 <img width="412" alt="image" src="https://github.com/user-attachments/assets/a946c3f1-a05d-4251-b046-03df177813f3">
 
