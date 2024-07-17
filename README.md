@@ -18,8 +18,18 @@ Reference: https://arxiv.org/abs/1505.04597
 
 *Defining the encoder/upsampling, bottleneck and decoder/downsampling block along with skip connections from encoder to its corresponding decoder*
 
-*Training the Model for 10 epochs along with tqdm tracking of loss*
-
-*Model Predictions*
+*Training and evaluating the Model for 10 epochs along with tqdm tracking of loss*
 
 **Note:** *Specials comments for common mistake handling and justification throughout the code*
+
+### Results 📊📈
+
+**Interpretation**
+
+With just 2 epochs, the model is able to able to segment with at least 50% of accuracy. With more computational resources and training, the model is expected to predict better.
+
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/1106bf3d-ac6f-449b-aebf-2d51480fcc10">
+
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/a946c3f1-a05d-4251-b046-03df177813f3">
+
+
