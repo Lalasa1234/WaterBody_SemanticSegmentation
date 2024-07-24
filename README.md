@@ -23,7 +23,7 @@ Reference: https://arxiv.org/abs/1505.04597
 
 *Defining the encoder/upsampling, bottleneck and decoder/downsampling block along with skip connections from encoder to its corresponding decoder*
 
-*Training and evaluating the Model for 10 epochs along with tqdm tracking of loss*
+*Training and evaluating the Model for 50 epochs along with tqdm tracking of loss*
 
 **Note:** *Specials comments for common mistake handling and justification throughout the code*
 
