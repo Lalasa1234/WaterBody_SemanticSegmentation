@@ -29,11 +29,11 @@ Reference: https://arxiv.org/abs/1505.04597
 
 ### Results 📊📈
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/723e167b-9b75-44d6-b88c-1d5c615daa08">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/723e167b-9b75-44d6-b88c-1d5c615daa08">
 
-___
+____
 
-<img width="497" alt="image" src="https://github.com/user-attachments/assets/0616c6d8-2bc9-4445-9e25-6bcd38cd2358">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0616c6d8-2bc9-4445-9e25-6bcd38cd2358">
 
 
 
