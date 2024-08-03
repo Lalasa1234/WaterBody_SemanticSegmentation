@@ -1,7 +1,7 @@
 ## What is this about ⁉️
 **Semantic segmentation of water bodies from satellite imagery**
 
-This has a practical application in the space industry which researches extensively on planetary water bodies.
+This has a practical application in the space industry, which researches extensively on planetary water bodies. The output masks can be used to detect and measure water bodies in extraterrestrial landforms.
 
 ### Which model architecture is used and why❔
 
