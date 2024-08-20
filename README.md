@@ -7,7 +7,7 @@ This has a practical application in the space industry, which researches extensi
 
 **U-Net is preferred over other Fully Convolution Neural Networks like ResNet-18**
 
-*U-Net leverages the concept of skip-connections which synergizes the low-level information (edges,color differences) from encoder with high-level information (semantics) from its corresponding decoder; making it perfect for semantic image segmentation. Skip-connections are absent in ResNet-18*
+*U-Net leverages the concept of skip-connections which synergizes the low-level information (edges,color differences) from encoder with high-level information (semantics) from its corresponding decoder; making it perfect for semantic image segmentation.*
 
 Here, the U-Net model is built from the scratch. U-Net assigns class to every pixel (water as the foreground versus non-water as the background)
 ![image](https://github.com/user-attachments/assets/c9336bb4-71f8-4df3-ae85-b6c5698b6d16)
